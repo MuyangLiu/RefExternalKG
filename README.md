@@ -3,6 +3,10 @@
 
   Catching More Associations by Referencing External Graphs
 
+The code is developed based library GUNDAM https://github.com/MinovskySociety/GUNDAM
+
+Main repo for graph rule discovery is being refactored and optimized, which will be released soon. https://github.com/MinovskySociety/GraphRules
+
 ## Install dependencies on Ubuntu
 
 GCC version: 7.4.0 or above, support of c++17 standard required.
@@ -78,5 +82,3 @@ For inc_gar_discover.yaml,
 (1) SupportEstimation indicates whether the algorithm prunes GARs by estimating,
 (2) EstimationThreshold is the threshold for estimation.
 ```
-
-
